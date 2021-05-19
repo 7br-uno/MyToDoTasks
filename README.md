@@ -1,6 +1,20 @@
-# my-to-do-tasks
+# My To-Do Tasks
 
-## Project setup
+CRUD To-Do Tasks made with Vue.js and Vuetify.js
+
+## Demo
+
+[Demo version of the project](https://codepen.io/pen/?template=XWMjGaw)
+
+## Preview
+
+<img src="https://i.imgur.com/qZIlF7M.gif" width="400px">
+
+------
+
+## Getting Start
+
+### Project setup
 ```
 npm install
 ```
@@ -14,11 +28,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
