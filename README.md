@@ -4,7 +4,7 @@ CRUD To-Do Tasks made with Vue.js and Vuetify.js
 
 ## Demo
 
-[Demo version of the project](https://codepen.io/pen/?template=XWMjGaw)
+[Demo version of the project](https://codepen.io/7br_uno/pen/XWMjGaw)
 
 ## Preview
 
